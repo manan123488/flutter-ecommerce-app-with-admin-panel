@@ -61,7 +61,7 @@ The project is organized as follows:
 ## Steps to Clone and Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flutter-ecommerce-app-with-admin-panel.git
+   git clone https://github.com/manan123488/flutter-ecommerce-app-with-admin-panel.git
 
 
 Navigate to the project directory:
