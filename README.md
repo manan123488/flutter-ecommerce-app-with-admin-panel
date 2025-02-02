@@ -95,7 +95,7 @@ Commit the files with a message:
 git commit -m "Initial commit: Added project structure and base files"
 
 Link the local repository to the remote GitHub repository:
-git remote add origin https://github.com/your-username/flutter-ecommerce-app-with-admin-panel.git
+git remote add origin https://github.com/manan123488/flutter-ecommerce-app-with-admin-panel.git
 
 
 Push the files to the remote repository:
